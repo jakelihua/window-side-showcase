@@ -1,19 +1,17 @@
-# Window Side
+# Stay Till Dusk
 
 [简体中文](README.md)
 
-[![The Window Side title screen with the Start Chapter One button](media/window-side-in-game-title-screen.jpg)](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.1)
+[![The Stay Till Dusk title screen](media/stay-till-dusk-in-game-cover.jpg)](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.2)
 
-**[52-second gameplay demo](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.1) · [Download MP4](https://github.com/jakelihua/window-side-showcase/releases/download/demo-v0.1/window-side-gameplay-demo.mp4)**
+**[55-second gameplay demo](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.2) · [Download MP4](https://github.com/jakelihua/window-side-showcase/releases/download/demo-v0.2/stay-till-dusk-gameplay.mp4)**
 
-The cover and demo include AI-generated visuals and synthesized speech.
+You come home to the living room, where Mira has saved you a seat by the window. The sun is about to set, and she wants to sit with you a little longer.
 
-As sunset spills into the living room, you can look out the window with her or tell her how your day went.
+Stay Till Dusk is a Mandarin-language, story-driven AI girlfriend game in development. You and Mira are already dating. Talk about your day, or spend a quiet moment looking out the window together.
 
-Window Side is a Mandarin-language voice companion game in development. Your story begins in a living room overlooking the city skyline.
+## Chapter One · I Saved You a Seat
 
-## Watch the Sunset
+Watch the sunset with Mira or tell her how your day went. Type a message to hear her reply in Mandarin. Watching the sunset together is a shared moment she can bring up on a later visit.
 
-- Look out the window together, or sit back and talk about your day.
-- She waves while waiting for you to speak. You can also trigger a head scratch from the interaction menu.
-- The sunset you watch together can come up the next time you talk.
+The showcase includes AI-generated visuals and synthesized speech.
