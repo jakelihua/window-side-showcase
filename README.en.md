@@ -2,8 +2,6 @@
 
 [简体中文](README.md)
 
-![Window Side promotional cover](media/cover.jpg)
-
 As sunset spills into the living room, you can look out the window with her or tell her how your day went.
 
 Window Side is a Mandarin-language voice companion game in development. Your story begins in a living room overlooking the city skyline.
