@@ -2,7 +2,7 @@
 
 [简体中文](README.md)
 
-[![The Window Side title screen with the Start Chapter One button](media/cover.jpg)](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.1)
+[![The Window Side title screen with the Start Chapter One button](media/window-side-in-game-title-screen.jpg)](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.1)
 
 **[52-second gameplay demo](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.1) · [Download MP4](https://github.com/jakelihua/window-side-showcase/releases/download/demo-v0.1/window-side-gameplay-demo.mp4)**
 

@@ -2,7 +2,7 @@
 
 [English](README.en.md)
 
-[![《窗边》游戏开场封面，显示「开始第一章」](media/cover.jpg)](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.1)
+[![《窗边》游戏开场封面，显示「开始第一章」](media/window-side-in-game-title-screen.jpg)](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.1)
 
 **[52 秒实机演示](https://github.com/jakelihua/window-side-showcase/releases/tag/demo-v0.1) · [下载 MP4](https://github.com/jakelihua/window-side-showcase/releases/download/demo-v0.1/window-side-gameplay-demo.mp4)**
 
